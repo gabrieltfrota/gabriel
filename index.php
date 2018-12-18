@@ -1,5 +1,6 @@
 <? php 
 
-echo "Gabriel Tavares F de Azevedo 2";
+echo "Gabriel Tavares F de Azevedo";
 
+echo "Eai meu compatriota"
 ?>
